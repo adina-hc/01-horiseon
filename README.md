@@ -29,4 +29,5 @@ Horiseon, a lead in the marketing industry requires that the structure of this w
 
 The following image demonstrates the website appearance and functionality:
 
-![The image depicts the Horiseon title, blue background color and an image of people in a meeting, with heading sections for Search Engine Optimization, Online Reputation Management and Social Medial Marketing, and a side block with benefits information] (.Assets/01-html-css-git-homework-demo.png)
+![The image depicts the Horiseon title, blue background color and an image of people in a meeting, with heading sections for Search Engine Optimization, Online Reputation Management and Social Medial Marketing, and a side block with benefits information](./Assets/01-html-css-git-homework-demo.png)
+
