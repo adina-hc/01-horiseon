@@ -31,4 +31,4 @@ The following image demonstrates the website appearance and functionality:
 
 ![The image depicts the Horiseon title, blue background color and an image of people in a meeting, with heading sections for Search Engine Optimization, Online Reputation Management and Social Medial Marketing, and a side block with benefits information](./assets/images/01-html-css-git-homework-demo.png)
 
-[Link to web page](https://adina-hc.github.io/Homework-week-1/)
+[Link to web page](https://adina-hc.github.io/homework-week-1/)
